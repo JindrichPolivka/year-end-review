@@ -4,7 +4,7 @@
 ## You were very approachable and kept a light friendly atmosphere. And I liked how much freedom you gave us in carrying out our assignments.
 2) What did you like least about this course?
 ## Sometimes the class would drag on a bit.
-3) What were the top (three) things you learned this year?
+# 3) What were the top (three) things you learned this year?
 ## - work with github
 ## - how to present myself. And bring a personal touch to it while staying proffesional.
 ## - Importance of accessability
