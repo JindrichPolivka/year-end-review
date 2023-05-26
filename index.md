@@ -2,7 +2,7 @@
 
 ## 1) What did you like most about this course?
 You were very approachable and kept a light friendly atmosphere. And I liked how much freedom you gave us in carrying out our assignments.
-##2) What did you like least about this course?
+## 2) What did you like least about this course?
 Sometimes the class would drag on a bit.
 ## 3) What were the top (three) things you learned this year?
 - work with github
